@@ -1,0 +1,111 @@
+{
+  "anime":
+[
+    {
+      "studio": "Wit Studio",
+      "genres": [
+        "Action ",
+        "Dark Fantasy ",
+        "Post apocalyptic "
+      ],
+      "title": "Koutetsujou no Kabaneri",
+      "images": "KoutetsujounoKabaneri.png",
+      "start_date": "Apr 8, 2016"
+    },
+    {
+      "studio": "Bones",
+      "genres": [
+        "Mystery ",
+        "Seinen ",
+        "Supernatural "
+      ],
+      "title": "Bungou Stray Dogs",
+      "images": "bungo stray dogs.png",
+      "start_date": "Apr 7, 2016"
+    },
+    {
+      "studio": "A-1 Pictures",
+      "genres": [
+        "Comedy ",
+        "Ecchi ",
+        "Fantasy ",
+        "Harem ",
+        "Romance ",
+        "School ",
+        "Sci-Fi ",
+        "Supernatural "
+      ],
+      "title": "Gakusen Toshi Asterisk",
+      "images": "Gakusen Toshi Asterisk.png",
+      "start_date": "Apr 2, 2016"
+    },
+    {
+      "studio": "Bones",
+      "genres": [
+        "Action ",
+        "Comedy ",
+        "School ",
+        "Shounen ",
+        "Super Power "
+      ],
+      "title": "Boku no Hero Academia",
+      "images": "Boku no Hero Academia.png",
+      "start_date": "Apr 3, 2016"
+    },
+    {
+      "studio": "Pierrot Co., Ltd.",
+      "genres": [
+        "Action ",
+        "Fantasy "
+      ],
+      "title":"Naruto",
+      "images":"naruto.png",
+      "start_date": "Oct 3, 2002"
+    },
+    {
+      "studio": "EMT²",
+      "genres": [
+        "Comedy ",
+        "Seinen "
+      ],
+      "title": "Kuma Miko",
+      "images": "Kuma Miko.png",
+      "start_date": "Apr 3, 2016"
+    },
+    {
+      "studio": "Brain's Base",
+      "genres": [
+        "Comedy ",
+        "Romance ",
+        "School ",
+        "Shounen ",
+        "Supernatural "
+      ],
+      "title": "Kyoukai no Rinne",
+      "images": "Kyoukai no Rinne.png",
+      "start_date": "Apr 9, 2016"
+    },
+    {
+      "studio": "Silver Link.",
+      "genres": [
+        "Comedy ",
+        "School ",
+        "Slice of Life "
+      ],
+      "title": "Anne Happy♪",
+      "images": "Anne Happy.png",
+      "start_date": "Apr 7, 2016"
+    },
+    {
+      "studio": "8bit",
+      "genres": [
+        "Comedy ",
+        "Shoujo ",
+        "Slice of Life "
+      ],
+      "title":"Shounen Maid",
+      "images":"Shounen Maid.jpg",
+      "start_date": "Apr 8, 2016"
+    }
+  ]
+}
