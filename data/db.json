@@ -10,7 +10,8 @@
     ],
     "title": "One Piece",
     "images": "onepiece.jpg",
-    "start_date": "Oct 20, 1999"
+    "start_date": "Oct 20, 1999",
+    "Status" : "Ongoing"
   },
   {
     "studio": "Wit Studio",
@@ -21,7 +22,8 @@
     ],
     "title": "Shingeki no Kyojin",
     "images": "attackontitan.jpg",
-    "start_date": "July 17, 2020"
+    "start_date": "July 17, 2020",
+    "Status" : "Completed"
   },
   {
     "studio": "TMS Entertainment",
@@ -32,7 +34,8 @@
     ],
     "title": "Kamisama Kiss",
     "images": "Kamisama Kiss.jpg",
-    "start_date": "Oct 1, 2012"
+    "start_date": "Oct 1, 2012",
+    "Status" : "Completed"
   },
     {
       "studio": "Wit Studio",
@@ -43,7 +46,8 @@
       ],
       "title": "Koutetsujou no Kabaneri",
       "images": "KoutetsujounoKabaneri.png",
-      "start_date": "Apr 8, 2016"
+      "start_date": "Apr 8, 2016",
+      "Status" : "Completed"
     },
     {
       "studio": "Bones",
@@ -54,7 +58,8 @@
       ],
       "title": "Bungou Stray Dogs",
       "images": "bungo stray dogs.png",
-      "start_date": "Apr 7, 2016"
+      "start_date": "Apr 7, 2016",
+      "Status" : "Completed"
     },
     {
       "studio": "A-1 Pictures",
@@ -70,7 +75,8 @@
       ],
       "title": "Gakusen Toshi Asterisk",
       "images": "Gakusen Toshi Asterisk.png",
-      "start_date": "Apr 2, 2016"
+      "start_date": "Apr 2, 2016",
+      "Status" : "Completed"
     },
     {
       "studio": "Bones",
@@ -83,7 +89,8 @@
       ],
       "title": "Boku no Hero Academia",
       "images": "Boku no Hero Academia.png",
-      "start_date": "Apr 3, 2016"
+      "start_date": "Apr 3, 2016",
+      "Status" : "Ongoing"
     },
     {
       "studio": "Kinema Citrus",
@@ -94,7 +101,8 @@
       ],
       "title":"My Happy Marriage",
       "images":"myhappymarriage.jpg",
-      "start_date": "Jul 5, 2023"
+      "start_date": "Jul 5, 2023",
+      "Status" : "Ongoing"
     },
     {
       "studio": "Pierrot Co., Ltd.",
@@ -104,7 +112,8 @@
       ],
       "title":"Naruto",
       "images":"naruto.png",
-      "start_date": "Oct 3, 2002"
+      "start_date": "Oct 3, 2002",
+      "Status" : "Completed"
     },
     {
       "studio": "Studio Deen",
@@ -114,7 +123,8 @@
       ],
       "title": "Fruit Basket",
       "images": "fruitbasket.jpg",
-      "start_date": "Apr 5, 2019"
+      "start_date": "Apr 5, 2019",
+      "Status" : "Ongoing"
     },
     {
       "studio": "Toho Animation Studio",
@@ -125,7 +135,8 @@
       ],
       "title": "The Apothecary Diaries",
       "images": "the apothecary diaries.jpeg",
-      "start_date": "Oct 22, 2023"
+      "start_date": "Oct 22, 2023",
+      "Status" : "Ongoing"
     },
     {
       "studio": "Brain's Base",
@@ -138,7 +149,8 @@
       ],
       "title": "Kyoukai no Rinne",
       "images": "Kyoukai no Rinne.png",
-      "start_date": "Apr 9, 2016"
+      "start_date": "Apr 9, 2016",
+      "Status" : "Ongoing"
     },
     {
       "studio": "Aniplex",
@@ -149,7 +161,8 @@
       ],
       "title": "My Love Story with Yamada-kun at Lv999",
       "images": "My Love Story with Yamada-kun at Lv999.png",
-      "start_date": "Apr 2, 2023"
+      "start_date": "Apr 2, 2023",
+      "Status" : "Ongoing"
     },
     {
       "studio": "Ufotable",
@@ -159,7 +172,8 @@
       ],
       "title": "Demon Slayer: Kimetsu no Yaiba",
       "images": "demonslayer.jpg",
-      "start_date": "Apr 6, 2019"
+      "start_date": "Apr 6, 2019",
+      "Status" : "Ongoing"
     },
     {
       "studio": "Silver Link.",
@@ -170,7 +184,8 @@
       ],
       "title": "Anne Happy♪",
       "images": "Anne Happy.png",
-      "start_date": "Apr 7, 2016"
+      "start_date": "Apr 7, 2016",
+      "Status" : "Ongoing"
     },
     {
       "studio": "8bit",
@@ -181,7 +196,8 @@
       ],
       "title":"Shounen Maid",
       "images":"Shounen Maid.jpg",
-      "start_date": "Apr 8, 2016"
+      "start_date": "Apr 8, 2016",
+      "Status" : "Ongoing"
     },
     {
       "studio": "Madhouse",
@@ -191,7 +207,8 @@
       ],
       "title":"Death Note",
       "images":"deathnote.jpg",
-      "start_date": "Aug 31, 2007"
+      "start_date": "Aug 31, 2007",
+      "Status" : "Ongoing"
     },
     {
       "studio": "Kyoto Animation",
@@ -202,7 +219,8 @@
       ],
       "title":"Violet Evergarden",
       "images":"violetevergarden.jpg",
-      "start_date": "Jan 11, 2018"
+      "start_date": "Jan 11, 2018",
+      "Status" : "Ongoing"
     },
     {
       "studio": "Production I.G",
@@ -212,7 +230,8 @@
       ],
       "title":"Haikyu!!",
       "images":"haikyu.jpg",
-      "start_date": "Sept 29, 2017"
+      "start_date": "Sept 29, 2017",
+      "Status" : "Ongoing"
     },
     {
       "studio": "MAPPA Studios",
@@ -222,7 +241,8 @@
       ],
       "title":"Jujutsu Kaisen",
       "images":"Jujutsu Kaisen.jpg",
-      "start_date": "Oct 3, 2020"
+      "start_date": "Oct 3, 2020",
+      "Status" : "Ongoing"
     }
   ]
 }
