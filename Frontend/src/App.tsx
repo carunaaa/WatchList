@@ -1,5 +1,4 @@
 // import { Button } from "@/components/ui/button"
-import React from 'react';
 import Home from './lib/page';
 import './index.css';
 

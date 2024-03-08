@@ -11,7 +11,7 @@
     "title": "One Piece",
     "images": "onepiece.jpg",
     "start_date": "Oct 20, 1999",
-    "Status" : "Ongoing"
+    "Status" : "Currently Watching"
   },
   {
     "studio": "Wit Studio",
@@ -47,7 +47,7 @@
       "title": "Koutetsujou no Kabaneri",
       "images": "KoutetsujounoKabaneri.png",
       "start_date": "Apr 8, 2016",
-      "Status" : "Completed"
+      "Status" : "TBW"
     },
     {
       "studio": "Bones",
@@ -59,7 +59,7 @@
       "title": "Bungou Stray Dogs",
       "images": "bungo stray dogs.png",
       "start_date": "Apr 7, 2016",
-      "Status" : "Completed"
+      "Status" : "TBW"
     },
     {
       "studio": "A-1 Pictures",
@@ -76,7 +76,7 @@
       "title": "Gakusen Toshi Asterisk",
       "images": "Gakusen Toshi Asterisk.png",
       "start_date": "Apr 2, 2016",
-      "Status" : "Completed"
+      "Status" : "TBW"
     },
     {
       "studio": "Bones",
@@ -90,7 +90,7 @@
       "title": "Boku no Hero Academia",
       "images": "Boku no Hero Academia.png",
       "start_date": "Apr 3, 2016",
-      "Status" : "Ongoing"
+      "Status" : "TBW"
     },
     {
       "studio": "Kinema Citrus",
@@ -102,7 +102,7 @@
       "title":"My Happy Marriage",
       "images":"myhappymarriage.jpg",
       "start_date": "Jul 5, 2023",
-      "Status" : "Ongoing"
+      "Status" : "Completed"
     },
     {
       "studio": "Pierrot Co., Ltd.",
@@ -124,7 +124,7 @@
       "title": "Fruit Basket",
       "images": "fruitbasket.jpg",
       "start_date": "Apr 5, 2019",
-      "Status" : "Ongoing"
+      "Status" : "Completed"
     },
     {
       "studio": "Toho Animation Studio",
@@ -136,7 +136,7 @@
       "title": "The Apothecary Diaries",
       "images": "the apothecary diaries.jpeg",
       "start_date": "Oct 22, 2023",
-      "Status" : "Ongoing"
+      "Status" : "Currently Watching"
     },
     {
       "studio": "Brain's Base",
@@ -150,7 +150,7 @@
       "title": "Kyoukai no Rinne",
       "images": "Kyoukai no Rinne.png",
       "start_date": "Apr 9, 2016",
-      "Status" : "Ongoing"
+      "Status" : "TBW"
     },
     {
       "studio": "Aniplex",
@@ -162,7 +162,7 @@
       "title": "My Love Story with Yamada-kun at Lv999",
       "images": "My Love Story with Yamada-kun at Lv999.png",
       "start_date": "Apr 2, 2023",
-      "Status" : "Ongoing"
+      "Status" : "Completed"
     },
     {
       "studio": "Ufotable",
@@ -173,7 +173,7 @@
       "title": "Demon Slayer: Kimetsu no Yaiba",
       "images": "demonslayer.jpg",
       "start_date": "Apr 6, 2019",
-      "Status" : "Ongoing"
+      "Status" : "Currently Watching"
     },
     {
       "studio": "Silver Link.",
@@ -185,7 +185,7 @@
       "title": "Anne Happy♪",
       "images": "Anne Happy.png",
       "start_date": "Apr 7, 2016",
-      "Status" : "Ongoing"
+      "Status" : "TBW"
     },
     {
       "studio": "8bit",
@@ -197,7 +197,7 @@
       "title":"Shounen Maid",
       "images":"Shounen Maid.jpg",
       "start_date": "Apr 8, 2016",
-      "Status" : "Ongoing"
+      "Status" : "TBW"
     },
     {
       "studio": "Madhouse",
@@ -208,7 +208,7 @@
       "title":"Death Note",
       "images":"deathnote.jpg",
       "start_date": "Aug 31, 2007",
-      "Status" : "Ongoing"
+      "Status" : "Completed"
     },
     {
       "studio": "Kyoto Animation",
@@ -220,7 +220,7 @@
       "title":"Violet Evergarden",
       "images":"violetevergarden.jpg",
       "start_date": "Jan 11, 2018",
-      "Status" : "Ongoing"
+      "Status" : "Completed"
     },
     {
       "studio": "Production I.G",
@@ -231,7 +231,7 @@
       "title":"Haikyu!!",
       "images":"haikyu.jpg",
       "start_date": "Sept 29, 2017",
-      "Status" : "Ongoing"
+      "Status" : "Currently Watching"
     },
     {
       "studio": "MAPPA Studios",
@@ -242,7 +242,7 @@
       "title":"Jujutsu Kaisen",
       "images":"Jujutsu Kaisen.jpg",
       "start_date": "Oct 3, 2020",
-      "Status" : "Ongoing"
+      "Status" : "TBW"
     }
   ]
 }

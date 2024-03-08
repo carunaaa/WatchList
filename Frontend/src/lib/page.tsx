@@ -7,7 +7,7 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
-import React, { useEffect, useState } from "react";
+import  { useEffect, useState } from "react";
 import { Avatar, AvatarImage } from "@radix-ui/react-avatar";
 import { AvatarFallback } from "@/components/ui/avatar";
 
@@ -64,23 +64,32 @@ const Home = () => {
         {animeList.map((anime, index) => (
           <Card
             key={index}
-            className={`flex flex-col justify-between ${anime.Status === "Completed" ? 'grayscale' : ''}`}
+            className={`flex flex-col justify-between ${
+              anime.Status === "Completed" ? "grayscale" : ""
+            }`}
             style={{
               border:
                 anime.Status === "Currently Watching"
                   ? "2px solid #00f"
                   : anime.Status === "TBW"
                   ? "2px solid #0f0"
-                  : "2px solid #aaa", 
+                  : "2px solid #aaa",
             }}
           >
             <Avatar className="flex items-center w-50 h-50 relative">
-            {anime.Status === "Completed" && (
-  <div className="absolute top-0 right-0 flex items-center text-white" style={{ backgroundColor: "#9B4444", padding: "0.5rem", borderRadius: "0.25rem", color: "white" }}>
-    Completed!
-  </div>
-)}
-
+              {anime.Status === "Completed" && (
+                <div
+                  className="absolute top-0 right-0 flex items-center text-white"
+                  style={{
+                    backgroundColor: "#9B4444",
+                    padding: "0.5rem",
+                    borderRadius: "0.25rem",
+                    color: "white",
+                  }}
+                >
+                  Completed!
+                </div>
+              )}
               <AvatarImage src={`/images/${anime.images}`} />
               <AvatarFallback>{anime.title.slice(0, 3)}</AvatarFallback>
             </Avatar>
@@ -113,7 +122,7 @@ const Home = () => {
                   ? "TBW!"
                   : "Currently Watching"}
               </Button>
-              {anime.start_date}
+              <span style={{ fontSize: "12px" }}>{anime.start_date}</span>
             </CardFooter>
           </Card>
         ))}
@@ -123,3 +132,5 @@ const Home = () => {
 };
 
 export default Home;
+
+

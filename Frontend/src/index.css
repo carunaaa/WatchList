@@ -76,14 +76,14 @@
   }
 }
 
-/* 
-main, nav {
-  @apply max-w-6xl mx-auto my-6 ;
+
+/* main, nav {
+  @apply max-w-6xl mx-auto my-12 ;
   
 } */
 
 main, nav {
-  @apply max-w-screen-2xl mx-auto my-6;
+  @apply max-w-screen-xl mx-auto my-12;
 }
 
 p {
