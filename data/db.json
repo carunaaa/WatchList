@@ -1,6 +1,28 @@
 {
   "anime":
 [
+  {
+    "studio": "Toei Animation Co., Ltd.",
+    "genres": [
+      "Action ",
+      "Fantasy ",
+      "Comedy "
+    ],
+    "title": "One Piece",
+    "images": "onepiece.png",
+    "start_date": "Oct 20, 1999"
+  },
+  {
+    "studio": "TMS Entertainment",
+    "genres": [
+      "Shoujo ",
+      "Fantasy ",
+      "Romance Comedy "
+    ],
+    "title": "Kamisama Kiss",
+    "images": "Kamisama Kiss.jpg",
+    "start_date": "Oct 1, 2012"
+  },
     {
       "studio": "Wit Studio",
       "genres": [
@@ -53,6 +75,17 @@
       "start_date": "Apr 3, 2016"
     },
     {
+      "studio": "Kinema Citrus",
+      "genres": [
+        "Shoujo ",
+        "Fantasy ",
+        "Romance "
+      ],
+      "title":"My Happy Marriage",
+      "images":"myhappymarriage.jpg",
+      "start_date": "Jul 5, 2023"
+    },
+    {
       "studio": "Pierrot Co., Ltd.",
       "genres": [
         "Action ",
@@ -63,14 +96,25 @@
       "start_date": "Oct 3, 2002"
     },
     {
-      "studio": "EMT²",
+      "studio": "Studio Deen",
       "genres": [
-        "Comedy ",
-        "Seinen "
+        "Shoujo ",
+        "Fantasy "
       ],
-      "title": "Kuma Miko",
-      "images": "Kuma Miko.png",
-      "start_date": "Apr 3, 2016"
+      "title": "Fruit Basket",
+      "images": "fruitbasket.jpg",
+      "start_date": "Apr 5, 2019"
+    },
+    {
+      "studio": "Toho Animation Studio",
+      "genres": [
+        "Mystery ",
+        "Shoujo ",
+        "Drama "
+      ],
+      "title": "The Apothecary Diaries",
+      "images": "the apothecary diaries.jpeg",
+      "start_date": "Oct 22, 2023"
     },
     {
       "studio": "Brain's Base",

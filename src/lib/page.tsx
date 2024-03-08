@@ -47,14 +47,14 @@ const Home = () => {
 
   return (
     <main>
-      <div className="grid grid-cols-3 gap-8">
+      <div className="grid grid-cols-4 gap-8">
         {animeList.map((anime, index) => (
           <Card key={index} className="flex flex-col justify-between">
-            <CardHeader className="flex-row gap-4 items-center">
-                <Avatar className="w-50 h-50">
+             <Avatar className="flex items-center w-50 h-50">
             <AvatarImage src={`/images/${anime.images}`}/>
               <AvatarFallback>{anime.title.slice(0, 3)}</AvatarFallback>
             </Avatar>
+            <CardHeader className="flex-row gap-4 items-center">
               <div>
                 <CardTitle>{anime.title}</CardTitle>
                 <CardDescription>{anime.studio}</CardDescription>
