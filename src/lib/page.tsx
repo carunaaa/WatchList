@@ -56,7 +56,7 @@ const Home = () => {
             </Avatar>
             <CardHeader className="flex-row gap-4 items-center">
               <div>
-                <CardTitle>{anime.title}</CardTitle>
+              <CardTitle style={{ color: 'gray-900' }}>{anime.title}</CardTitle>
                 <CardDescription>{anime.studio}</CardDescription>
               </div>
             </CardHeader >
@@ -64,7 +64,7 @@ const Home = () => {
               <p className="text-left">{anime.genres}</p>
             </CardContent>
             <CardFooter className="flex justify-between">
-              <Button>Start Date</Button>
+              <Button>Status</Button>
               {anime.start_date && <p>TBW!</p>}
             </CardFooter>
           </Card>

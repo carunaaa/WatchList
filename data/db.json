@@ -4,20 +4,31 @@
   {
     "studio": "Toei Animation Co., Ltd.",
     "genres": [
-      "Action ",
-      "Fantasy ",
+      "Action, ",
+      "Fantasy, ",
       "Comedy "
     ],
     "title": "One Piece",
-    "images": "onepiece.png",
+    "images": "onepiece.jpg",
     "start_date": "Oct 20, 1999"
+  },
+  {
+    "studio": "Wit Studio",
+    "genres": [
+      "Shonen,  ",
+      "Dark Fantasy, ",
+      "Horror "
+    ],
+    "title": "Shingeki no Kyojin",
+    "images": "attackontitan.jpg",
+    "start_date": "July 17, 2020"
   },
   {
     "studio": "TMS Entertainment",
     "genres": [
-      "Shoujo ",
-      "Fantasy ",
-      "Romance Comedy "
+      "Shoujo, ",
+      "Fantasy, ",
+      "Romantic Comedy "
     ],
     "title": "Kamisama Kiss",
     "images": "Kamisama Kiss.jpg",
@@ -26,9 +37,9 @@
     {
       "studio": "Wit Studio",
       "genres": [
-        "Action ",
-        "Dark Fantasy ",
-        "Post apocalyptic "
+        "Action, ",
+        "Dark Fantasy, ",
+        "Post-apocalyptic "
       ],
       "title": "Koutetsujou no Kabaneri",
       "images": "KoutetsujounoKabaneri.png",
@@ -37,8 +48,8 @@
     {
       "studio": "Bones",
       "genres": [
-        "Mystery ",
-        "Seinen ",
+        "Mystery, ",
+        "Seinen, ",
         "Supernatural "
       ],
       "title": "Bungou Stray Dogs",
@@ -48,13 +59,13 @@
     {
       "studio": "A-1 Pictures",
       "genres": [
-        "Comedy ",
-        "Ecchi ",
-        "Fantasy ",
-        "Harem ",
-        "Romance ",
-        "School ",
-        "Sci-Fi ",
+        "Comedy, ",
+        "Ecchi, ",
+        "Fantasy, ",
+        "Harem, ",
+        "Romance, ",
+        "School, ",
+        "Sci-Fi, ",
         "Supernatural "
       ],
       "title": "Gakusen Toshi Asterisk",
@@ -64,10 +75,10 @@
     {
       "studio": "Bones",
       "genres": [
-        "Action ",
-        "Comedy ",
-        "School ",
-        "Shounen ",
+        "Action, ",
+        "Comedy, ",
+        "School, ",
+        "Shounen, ",
         "Super Power "
       ],
       "title": "Boku no Hero Academia",
@@ -77,8 +88,8 @@
     {
       "studio": "Kinema Citrus",
       "genres": [
-        "Shoujo ",
-        "Fantasy ",
+        "Shoujo, ",
+        "Fantasy, ",
         "Romance "
       ],
       "title":"My Happy Marriage",
@@ -88,7 +99,7 @@
     {
       "studio": "Pierrot Co., Ltd.",
       "genres": [
-        "Action ",
+        "Action, ",
         "Fantasy "
       ],
       "title":"Naruto",
@@ -98,7 +109,7 @@
     {
       "studio": "Studio Deen",
       "genres": [
-        "Shoujo ",
+        "Shoujo, ",
         "Fantasy "
       ],
       "title": "Fruit Basket",
@@ -108,8 +119,8 @@
     {
       "studio": "Toho Animation Studio",
       "genres": [
-        "Mystery ",
-        "Shoujo ",
+        "Mystery, ",
+        "Shoujo, ",
         "Drama "
       ],
       "title": "The Apothecary Diaries",
@@ -119,10 +130,10 @@
     {
       "studio": "Brain's Base",
       "genres": [
-        "Comedy ",
-        "Romance ",
-        "School ",
-        "Shounen ",
+        "Comedy, ",
+        "Romance, ",
+        "School, ",
+        "Shounen, ",
         "Supernatural "
       ],
       "title": "Kyoukai no Rinne",
@@ -130,10 +141,31 @@
       "start_date": "Apr 9, 2016"
     },
     {
+      "studio": "Aniplex",
+      "genres": [
+        "Comedy, ",
+        "School, ",
+        "Shoujo "
+      ],
+      "title": "My Love Story with Yamada-kun at Lv999",
+      "images": "My Love Story with Yamada-kun at Lv999.png",
+      "start_date": "Apr 2, 2023"
+    },
+    {
+      "studio": "Ufotable",
+      "genres": [
+        "Shonen, ",
+        "Dark Fantasy "
+      ],
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "images": "demonslayer.jpg",
+      "start_date": "Apr 6, 2019"
+    },
+    {
       "studio": "Silver Link.",
       "genres": [
-        "Comedy ",
-        "School ",
+        "Comedy, ",
+        "School, ",
         "Slice of Life "
       ],
       "title": "Anne Happy♪",
@@ -143,13 +175,54 @@
     {
       "studio": "8bit",
       "genres": [
-        "Comedy ",
-        "Shoujo ",
+        "Comedy, ",
+        "Shoujo, ",
         "Slice of Life "
       ],
       "title":"Shounen Maid",
       "images":"Shounen Maid.jpg",
       "start_date": "Apr 8, 2016"
+    },
+    {
+      "studio": "Madhouse",
+      "genres": [
+        "Thriller, ",
+        "Shonen  "
+      ],
+      "title":"Death Note",
+      "images":"deathnote.jpg",
+      "start_date": "Aug 31, 2007"
+    },
+    {
+      "studio": "Kyoto Animation",
+      "genres": [
+        "Adventure, ",
+        "Shoujo, ",
+        "Slice of Life "
+      ],
+      "title":"Violet Evergarden",
+      "images":"violetevergarden.jpg",
+      "start_date": "Jan 11, 2018"
+    },
+    {
+      "studio": "Production I.G",
+      "genres": [
+        "Sports, ",
+        "Shounen "
+      ],
+      "title":"Haikyu!!",
+      "images":"haikyu.jpg",
+      "start_date": "Sept 29, 2017"
+    },
+    {
+      "studio": "MAPPA Studios",
+      "genres": [
+        "Dark Fantasy, ",
+        "Shounen "
+      ],
+      "title":"Jujutsu Kaisen",
+      "images":"Jujutsu Kaisen.jpg",
+      "start_date": "Oct 3, 2020"
     }
   ]
 }
