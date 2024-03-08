@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <nav>
-        <h1>Anime for Weeb</h1>
+        <h1 className='"vt323-regular"'>Anime for Weeb</h1>
       </nav>
       <main>
         <Home />
